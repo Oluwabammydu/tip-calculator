@@ -6,5 +6,7 @@ html{
 main{
     max-width: 50rem;
     margin: 2rem auto;
-    background: linear-gradient();
+    background: linear-gradient(30deg, #3dc0c0, #5bc3a3);
+    padding: 3rem 1.6rem 1.6rem 1.6rem;
+    border-radius: 2rem;
 }
